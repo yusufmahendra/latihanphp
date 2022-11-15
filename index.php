@@ -1,10 +1,8 @@
 <?php
-$x = 10;
-$y = 20;
 
-    echo "$x + $y" ;
-    echo "$x - $y" ;
-    echo "$x * $y" ;
-    echo "$x / $y" ;
-    echo "$x % $y" ;
+$nama_depan = "Yusuf";
+$nama_belakang = "Mahendra";
+
+echo $nama_depan . "" . $nama_belakang;
+
     ?> 
