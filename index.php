@@ -1,6 +1,20 @@
 <?php
-$nama = "Yusuf";
+$nama = "Yusuf"
 ?>
+<!DOCTYP<html>
+<html>
+<head>
+<title>Belajar PHP
 
-echo "Hello, Selamat Datang $nama <?br>";
-echoecho 'Hello, Selamat Datang $nama';
+</title>
+   
+</head>
+    
+
+<body>
+
+<h1>
+    Hello, Selamat Datang <?php echo $nama;?></h1>
+</body>
+</html>
+
