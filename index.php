@@ -1,20 +1,10 @@
 <?php
-$nama = "Yusuf"
-?>
-<!DOCTYP<html>
-<html>
-<head>
-<title>Belajar PHP
-
-</title>
-   
-</head>
-    
-
-<body>
-
-<h1>
-    Hello, Selamat Datang <?php echo $nama;?></h1>
-</body>
-</html>
-
+Operator Aritmatika
+$x = 10;
+$y = 20;
+    echo $x + $y ;
+    echo $x - $y ;
+    echo $x * $y ;
+    echo $x / $y ;
+    echo $x % $y ;
+?> 
