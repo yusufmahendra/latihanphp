@@ -1,19 +1,6 @@
-
-<!DOCTYP<html>
-<html>
-<head>
-<title>Belajar PHP
-
-</title>
-   
-</head>
-    
-
-<body>
-
 <?php
-    echo "<h1>Selamat Datang, Yusuf Mahendra</h1>";
+$nama = "Yusuf";
 ?>
-</body>
-</html>
 
+echo "Hello, Selamat Datang $nama <?br>";
+echoecho 'Hello, Selamat Datang $nama';
