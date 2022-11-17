@@ -1,8 +1,46 @@
 <?php
 
-$nama_depan = "Yusuf";
-$nama_belakang = "Mahendra";
+$x = 10;
+$x += 2; #oprator assignment +=
 
-echo $nama_depan . "" . $nama_belakang;
+echo $x <br
 
-    ?> 
+"$y =;
+$y -=;"
+echo $y <br
+
+$x = 10;
+$x -= 2; #oprator assignment -=
+
+echo $x "</br>"
+
+$y =;
+$y /=;
+echo $y "</br>"
+
+$x = 10;
+$x /= 2; #oprator assignment /=
+
+echo $x "</br>"
+
+$y =;
+$y +=; 
+echo $y "</br>"
+
+$x = 10;
+$x %= 2; #oprator assignment %=
+echo $x "</br>"
+
+$y =;
+$y /=;
+echo $y "</br>"
+
+$x = 10;
+$x .= 2; #oprator assignment .=
+
+echo $x "</br>"
+
+$y =;
+$y /=;
+echo $y "</br>"
+?> 
