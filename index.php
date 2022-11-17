@@ -1,46 +1,22 @@
 <?php
 
-$x = 10;
-$x += 2; #oprator assignment +=
-
-echo $x <br
-
-"$y =;
-$y -=;"
-echo $y <br
-
-$x = 10;
-$x -= 2; #oprator assignment -=
-
-echo $x "</br>"
-
-$y =;
-$y /=;
-echo $y "</br>"
+var_dump(1 < 5);
+        echo "</br>";
+            var_dump(1 > 5);
+                    echo "</br>";
+                    var_dump(1 <= 5);
+                        echo "</br>";
+                        var_dump(1 >= 5);
+                            echo "</br>";
+                            var_dump(1 == 5);
+                            echo "</br>";
+                            var_dump(1 != 5);
+                            echo "</br>";
+var_dump(1 === "1");
+var_dump(1 !== "1");
 
 $x = 10;
-$x /= 2; #oprator assignment /=
-
-echo $x "</br>"
-
-$y =;
-$y +=; 
-echo $y "</br>"
-
+var_dump($x < 20 || $x % 2 == 0);
 $x = 10;
-$x %= 2; #oprator assignment %=
-echo $x "</br>"
-
-$y =;
-$y /=;
-echo $y "</br>"
-
-$x = 10;
-$x .= 2; #oprator assignment .=
-
-echo $x "</br>"
-
-$y =;
-$y /=;
-echo $y "</br>"
+var_dump($x < 20 || $x % 2 == 0);
 ?> 
