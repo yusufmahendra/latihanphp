@@ -2,19 +2,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Menggunakan Perulangan For</title>
+<title>Menggunakan Perulangan While</title>
 </head>
 <body>
 
-<h1>Menggunakan Perulangan For</h1>
+<h1>Menggunakan Perulangan while</h1>
 <?php
 
 
-for ($i = 0; $i < 5; $i++){
-    echo "Hai, saya urutan ke- <br>";
+$i = 0;
+while ($i < 5){
+    echo "Hai, Dunia <br>";
+    $i++;
 }
-
-
 ?>
 </body>
 </html>
